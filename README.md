@@ -32,3 +32,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+# Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0326-power-of-three) |
+# Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0326-power-of-three) |
