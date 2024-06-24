@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2634-minimum-common-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
@@ -62,3 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
