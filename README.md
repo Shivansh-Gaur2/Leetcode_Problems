@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
@@ -77,3 +79,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
