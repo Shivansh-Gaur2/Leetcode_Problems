@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2634-minimum-common-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2634-minimum-common-value) |
@@ -107,3 +108,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
