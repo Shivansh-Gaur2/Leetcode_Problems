@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2634-minimum-common-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -111,8 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
