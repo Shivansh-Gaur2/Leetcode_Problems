@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2634-minimum-common-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 # Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 # Two Pointers
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 # Math
 |  |
 | ------- |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 # String
