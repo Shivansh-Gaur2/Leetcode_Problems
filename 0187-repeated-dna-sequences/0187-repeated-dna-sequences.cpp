@@ -1,26 +1,23 @@
 class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {
+        int n = s.length();
+
+        if (n < 10) 
+            return {};
+
+        unordered_map<string, int> mp;
+        for (int i = 0; i <= n - 10; i++)
+        {
+            string tmp = s.substr(i, 10);
+            mp[tmp]++;
+        }
+
         vector<string> ans;
-
-        unordered_map<string, int> ump;
-
-        int left = 0, right = 9;
-        while(right < s.size()){
-            cout << s.substr(left, 10) << endl;
-            string str = s.substr(left, 10);
-            if(ump.find(str) != ump.end()){
-                if(ump[str] > 0){
-                    ans.push_back(str);
-                }
-                ump[str]--;
-                cout << ump[str] << endl;
-            }
-            else{
-            ump[str]++;
-            }
-            left++;
-            right++;
+        for (auto i : mp)
+        {
+            if (i.second > 1) 
+                ans.push_back(i.first);
         }
 
         return ans;
