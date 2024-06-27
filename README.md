@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 # Interactive
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Queue
 |  |
@@ -120,3 +124,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
+# Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+# Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
