@@ -5,7 +5,6 @@ public:
         s = "";
         string word;
         while(ss >> word){
-            cout << word << endl;
             s = word + ' ' + s;
         }
 
