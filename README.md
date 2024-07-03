@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -233,10 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
