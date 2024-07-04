@@ -259,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
