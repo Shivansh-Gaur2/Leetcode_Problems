@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -282,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
