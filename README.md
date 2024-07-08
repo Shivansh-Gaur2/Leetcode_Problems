@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0742-to-lower-case) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
