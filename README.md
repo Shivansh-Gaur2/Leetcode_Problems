@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0443-string-compression) |
+| [0742-to-lower-case](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
