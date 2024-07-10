@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
