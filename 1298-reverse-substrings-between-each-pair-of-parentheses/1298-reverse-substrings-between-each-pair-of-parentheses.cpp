@@ -1,21 +1,27 @@
 class Solution {
+int i = 0;
 public:
     string reverseParentheses(string s) {
-        deque<int> ind_stack;
-        vector<char> res;
+        return helper(s);
+    }
 
-        for (char char_s : s) {
-            if (char_s == '(') {
-                ind_stack.push_back(res.size());
-            } else if (char_s == ')') {
-                int start_ind = ind_stack.back();
-                ind_stack.pop_back();
-                reverse(res.begin() + start_ind, res.end());
+    string helper(string& s) {
+        string result;
+
+        while (i < s.length()) {
+            if (s[i] == ')') {
+                i++;
+                reverse(result.begin(), result.end());
+                return result;
+            } else if (s[i] == '(') {
+                i++;
+                string st = helper(s);
+                result += st;
             } else {
-                res.push_back(char_s);
+                result += s[i];
+                i++;
             }
         }
-
-        return string(res.begin(), res.end());
+        return result;
     }
 };
