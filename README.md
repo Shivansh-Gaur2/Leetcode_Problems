@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Topological Sort
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
