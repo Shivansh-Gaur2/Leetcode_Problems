@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0969-number-of-recent-calls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
