@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
