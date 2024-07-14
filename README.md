@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0443-string-compression) |
+| [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
