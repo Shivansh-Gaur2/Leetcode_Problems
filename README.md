@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
