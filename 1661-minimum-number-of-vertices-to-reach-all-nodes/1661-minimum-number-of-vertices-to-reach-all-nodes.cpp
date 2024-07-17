@@ -4,7 +4,6 @@ public:
         vector<int> indegree(n,0);
 
         for(auto it : edges){
-            int u = it[0];
             int v = it[1];
 
             indegree[v]++;
