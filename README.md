@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
