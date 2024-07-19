@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -505,5 +508,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
