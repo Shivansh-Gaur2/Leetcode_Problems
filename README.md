@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
