@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
