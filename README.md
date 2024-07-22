@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1036-rotting-oranges) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
