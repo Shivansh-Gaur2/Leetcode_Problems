@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -555,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
