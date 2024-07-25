@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0221-maximal-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1117-as-far-from-land-as-possible) |
