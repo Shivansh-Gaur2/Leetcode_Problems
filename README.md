@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1738-maximal-network-rank) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
 |  |
@@ -629,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
