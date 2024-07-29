@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1511-count-number-of-teams](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 ## Memoization
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1511-count-number-of-teams](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -639,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
