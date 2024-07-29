@@ -1,15 +1,36 @@
 class Solution {
 public:
     int numTeams(vector<int>& rating) {
-        int cnt=  0;
-        for(int i = 0 ; i < rating.size()-2; i++){
-            for(int j = i+1 ; j < rating.size()-1; j++){
-                for(int k = j+1 ; k < rating.size(); k++){
-                    if(rating[i] < rating[j] && rating[j] < rating[k])cnt++;
-                    else if(rating[i] > rating[j] && rating[j] > rating[k]) cnt++;
+        int n = rating.size();
+        int count = 0;
+
+        // Loop through each element in the rating array
+        for (int j = 0; j < n; ++j) {
+            int leftSmaller = 0, leftLarger = 0;
+            int rightSmaller = 0, rightLarger = 0;
+
+            // Count elements to the left of j
+            for (int i = 0; i < j; ++i) {
+                if (rating[i] < rating[j]) {
+                    ++leftSmaller;
+                } else if (rating[i] > rating[j]) {
+                    ++leftLarger;
                 }
             }
+
+            // Count elements to the right of j
+            for (int k = j + 1; k < n; ++k) {
+                if (rating[k] < rating[j]) {
+                    ++rightSmaller;
+                } else if (rating[k] > rating[j]) {
+                    ++rightLarger;
+                }
+            }
+
+            // Calculate the number of valid teams with j as the middle element
+            count += leftSmaller * rightLarger + leftLarger * rightSmaller;
         }
-        return cnt;
+
+        return count;
     }
 };
