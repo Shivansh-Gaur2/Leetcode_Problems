@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-pizza-with-3n-slices](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-pizza-with-3n-slices](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1489-pizza-with-3n-slices) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Depth-First Search
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1489-pizza-with-3n-slices](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 ## Memoization
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1489-pizza-with-3n-slices](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1505-create-target-array-in-the-given-order) |
