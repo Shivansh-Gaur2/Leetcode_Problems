@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
