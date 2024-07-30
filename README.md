@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
