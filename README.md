@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2645-pass-the-pillow) |
