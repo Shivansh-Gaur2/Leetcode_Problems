@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sliding Window
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0476-number-complement) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
