@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0930-all-possible-full-binary-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
