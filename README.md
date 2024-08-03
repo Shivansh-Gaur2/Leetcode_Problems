@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1503-reducing-dishes) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1511-count-number-of-teams](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
