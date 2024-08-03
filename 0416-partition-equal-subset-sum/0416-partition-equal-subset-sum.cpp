@@ -1,26 +1,29 @@
 class Solution {
 public:
-bool helper(vector<int>& nums ,int idx, int target, vector<vector<int>>& dp){
-    if(target == 0) return true;
-    if(target < 0) return false;
-    if(idx >= nums.size()) return false;
-    if(dp[idx][target] != -1){
-        return dp[idx][target];
+bool canPartition(vector<int>& nums) {
+    int total = accumulate(nums.begin(), nums.end(), 0);
+    if (total % 2 != 0) {
+        return false;
     }
 
-    bool inc = helper(nums , idx + 1, target - nums[idx], dp);
-    bool exl = helper(nums, idx + 1, target, dp);
+    int target = total / 2;
+    int n = nums.size();
+    vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
+    
+    for (int i = 0; i <= n; i++) {
+        dp[i][0] = true;
+    }
 
-    return  dp[idx][target] = inc || exl;
-}
-
-
-    bool canPartition(vector<int>& nums) {
-        int total = accumulate(nums.begin() , nums.end() , 0);
-        if(total% 2 != 0){
-            return 0;
+    for (int i = 1; i <= n; i++) {
+        for (int j = 1; j <= target; j++) {
+            if (j >= nums[i - 1]) {
+                dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i - 1]];
+            } else {
+                dp[i][j] = dp[i - 1][j];
+            }
         }
-        vector<vector<int>> dp(nums.size()+1 , vector<int>(total/2 + 1 , -1));
-        return helper(nums,  0,  total/2, dp);
     }
+
+    return dp[n][target];
+}
 };
