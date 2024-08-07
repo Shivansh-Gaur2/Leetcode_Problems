@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0273-integer-to-english-words](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0507-perfect-number) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0273-integer-to-english-words](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
