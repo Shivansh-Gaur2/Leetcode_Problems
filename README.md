@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0690-employee-importance) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0690-employee-importance) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 ## Backtracking
 |  |
 | ------- |
