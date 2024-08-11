@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1503-reducing-dishes) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
