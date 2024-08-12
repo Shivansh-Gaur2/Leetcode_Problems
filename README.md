@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0871-keys-and-rooms) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0690-employee-importance) |
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0930-all-possible-full-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0930-all-possible-full-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
