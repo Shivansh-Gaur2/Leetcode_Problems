@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2058-concatenation-of-array) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1791-richest-customer-wealth](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
+| [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 ## Backtracking
 |  |
 | ------- |
