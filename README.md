@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3034-points-that-intersect-with-cars) |
 ## Bit Manipulation
