@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
+| [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1489-pizza-with-3n-slices) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Depth-First Search
 |  |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
 |  |
