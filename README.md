@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0906-walking-robot-simulation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1642-water-bottles) |
