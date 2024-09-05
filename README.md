@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0525-contiguous-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0690-employee-importance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0690-employee-importance) |
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
