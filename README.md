@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
