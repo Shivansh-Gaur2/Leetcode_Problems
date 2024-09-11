@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
