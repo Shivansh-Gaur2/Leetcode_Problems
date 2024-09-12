@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1803-average-waiting-time) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Geometry
