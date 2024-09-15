@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
