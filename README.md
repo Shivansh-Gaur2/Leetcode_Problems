@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0507-perfect-number) |
+| [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
