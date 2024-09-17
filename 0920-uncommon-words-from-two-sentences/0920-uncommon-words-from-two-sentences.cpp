@@ -1,24 +1,13 @@
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
-        unordered_map<string, int> ump;
+        string s = s1 + ' ' + s2;
+        unordered_map<string , int> ump;
+
         string word = "";
-        for(int i = 0 ; i < s1.size(); i++){
-            if(s1[i] != ' '){
-                word += s1[i];
-            }
-            else{
-                ump[word]++;
-                word = "";
-
-            }
-        }
-        ump[word]++;
-        word = "";
-
-        for(int i = 0; i < s2.size(); i++){
-            if(s2[i] != ' '){
-                word += s2[i];
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] != ' '){
+                word += s[i];
             }
             else{
                 ump[word]++;
@@ -26,7 +15,6 @@ public:
             }
         }
         ump[word]++;
-        
 
         vector<string> ans;
 
