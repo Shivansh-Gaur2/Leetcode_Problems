@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
 ## Counting
 |  |
