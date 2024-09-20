@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0313-super-ugly-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0507-perfect-number) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
