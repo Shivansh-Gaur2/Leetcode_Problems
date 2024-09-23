@@ -8,11 +8,12 @@ public:
         for(auto it : message){
             if(word.count(it)){
                 cnt++;
+                if(cnt >=2){
+                    return true;
+                }
             }
         }
-        if(cnt >= 2){
-            return true;
-        }
+        
         return false;
     }
 };
