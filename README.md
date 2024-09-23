@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1013,4 +1017,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
