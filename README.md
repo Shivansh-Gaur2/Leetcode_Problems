@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Geometry
 |  |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3376-longest-common-suffix-queries) |
