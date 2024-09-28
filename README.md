@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0860-design-circular-queue](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0860-design-circular-queue) |
 | [0870-magic-squares-in-grid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
+| [0860-design-circular-queue](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -914,11 +916,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0860-design-circular-queue](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
