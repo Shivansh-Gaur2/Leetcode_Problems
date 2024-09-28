@@ -8,7 +8,7 @@ public:
             if(blocks[right] == 'B'){
                 blacks++;
             }
-            while(right - left + 1 > k){
+            if(right - left + 1 > k){
                 if(blocks[left] == 'B'){
                     blacks--;
                 }
