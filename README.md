@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0525-contiguous-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0690-employee-importance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0690-employee-importance) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0860-design-circular-queue](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0732-my-calendar-iii) |
@@ -1072,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0732-my-calendar-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
