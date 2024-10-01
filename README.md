@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3376-longest-common-suffix-queries](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3376-longest-common-suffix-queries) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3469-maximum-height-of-a-triangle) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Geometry
 |  |
