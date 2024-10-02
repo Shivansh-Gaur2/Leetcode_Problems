@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0273-integer-to-english-words) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
