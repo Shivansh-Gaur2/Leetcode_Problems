@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
+| [1694-make-sum-divisible-by-p](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1833-find-the-highest-altitude](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1940-maximum-xor-for-each-query) |
