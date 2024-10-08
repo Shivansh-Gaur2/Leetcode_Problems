@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3561-remove-methods-from-project](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3561-remove-methods-from-project) |
 ## Sorting
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3376-longest-common-suffix-queries](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3376-longest-common-suffix-queries) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -1086,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Binary Indexed Tree
 |  |
 | ------- |
