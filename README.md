@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1489-pizza-with-3n-slices) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2502-sort-the-people) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -1160,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0732-my-calendar-iii) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
