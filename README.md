@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0670-maximum-swap](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1086-divisor-game) |
