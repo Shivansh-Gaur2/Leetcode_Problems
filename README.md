@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0091-decode-ways](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0097-interleaving-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
