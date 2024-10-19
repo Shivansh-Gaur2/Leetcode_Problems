@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Strongly Connected Component
 |  |
