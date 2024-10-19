@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1397-search-suggestions-system) |
