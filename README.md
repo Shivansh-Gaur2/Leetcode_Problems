@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Game Theory
