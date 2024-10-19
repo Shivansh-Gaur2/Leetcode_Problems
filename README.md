@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0969-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
+| [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Game Theory
 |  |
