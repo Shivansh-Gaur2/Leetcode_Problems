@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0813-all-paths-from-source-to-target) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
@@ -1091,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0695-max-area-of-island) |
@@ -1161,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2803-modify-graph-edge-weights](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2803-modify-graph-edge-weights) |
