@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0450-delete-node-in-a-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
