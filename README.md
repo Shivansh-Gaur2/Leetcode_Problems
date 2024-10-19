@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0732-my-calendar-iii) |
+| [0907-koko-eating-bananas](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1397-search-suggestions-system) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
