@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1184-car-pooling) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
