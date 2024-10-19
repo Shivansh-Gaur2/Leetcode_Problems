@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0198-house-robber) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0461-hamming-distance) |
