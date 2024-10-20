@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1304-longest-happy-string) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
