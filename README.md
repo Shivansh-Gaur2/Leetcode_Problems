@@ -1271,4 +1271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
+## Database
+|  |
+| ------- |
+| [2087-confirmation-rate](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
