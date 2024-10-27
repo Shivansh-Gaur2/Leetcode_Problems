@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0477-total-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0477-total-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [0525-contiguous-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
