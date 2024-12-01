@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1738-maximal-network-rank) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1279,4 +1281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2087-confirmation-rate](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2087-confirmation-rate) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
