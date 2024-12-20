@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3561-remove-methods-from-project) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3561-remove-methods-from-project) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
