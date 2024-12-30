@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
