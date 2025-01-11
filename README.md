@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1159,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
