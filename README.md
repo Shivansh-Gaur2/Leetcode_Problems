@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0649-dota2-senate) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
+| [0630-course-schedule-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0630-course-schedule-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0948-sort-an-array) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
