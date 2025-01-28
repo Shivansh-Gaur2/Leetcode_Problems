@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2636-maximum-subsequence-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Graph
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Memoization
 |  |
 | ------- |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3427-special-array-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -1209,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Game Theory
 |  |
 | ------- |
