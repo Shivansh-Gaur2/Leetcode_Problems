@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3376-longest-common-suffix-queries](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3376-longest-common-suffix-queries) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
