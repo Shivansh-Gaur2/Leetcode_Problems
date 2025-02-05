@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3376-longest-common-suffix-queries) |
 | [3451-string-compression-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3451-string-compression-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
 | ------- |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3427-special-array-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1265,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
 | ------- |
