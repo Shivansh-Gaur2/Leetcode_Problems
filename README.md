@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Graph
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Stack
 |  |
 | ------- |
