@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Hash Table
 |  |
 | ------- |
