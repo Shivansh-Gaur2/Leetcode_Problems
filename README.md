@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 ## Memoization
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3427-special-array-ii) |
+| [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
