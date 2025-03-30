@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
 |  |
 | ------- |
