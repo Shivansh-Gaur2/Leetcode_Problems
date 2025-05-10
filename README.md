@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2636-maximum-subsequence-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3034-points-that-intersect-with-cars) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
