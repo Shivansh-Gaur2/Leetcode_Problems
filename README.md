@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3893-generate-tag-for-video-caption](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Array
 |  |
 | ------- |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/Shivansh-Gaur2/Leetcode_Problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Matrix
 |  |
 | ------- |
